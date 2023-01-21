@@ -1,0 +1,27 @@
+En esta acta vamos a definir la planificación de nuestro trabajo (organización):
+
+/*primera reunion 20-01-2023*/
+El modo de trabajo
+Los horarios de trabajo
+Tecnologías a utilizar
+Recursos a utilizar
+
+
+Modo de Trabajo
+Definir los temas de trabajo
+Hacer un plan de trabajo - Diagrama de Gantt -> para la tesis
+Cooperación mutua
+…
+
+Los Horarios de Trabajo
+
+Lunes - Miércoles - Viernes 9 - 11 pm ||  8 -10 pm
+
+Tecnologías a utilizar
+Para las videollamadas : Google meet - Zoom
+Para el control de versiones de la tesis : Git - GitHub
+Para la comunicación : Whatsapp - Telegram - Slack
+Para el análisis de datos (Redes Sociales): Twitter
+Para las planificaciones de  reuniones : Google Calendar
+Para el desarrollo de la tesis : Word 
+Para la programación : Python, R, VSCode
