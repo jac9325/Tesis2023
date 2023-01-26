@@ -6,3 +6,31 @@ Plan de Tesis para 26-01-23
 -Buscar y subir 3 Papers (articulos) relacionados con el tema de Tesis. scielo (Subir al grupo, link-pdf).
 
 
+
+/* Autor Jaime Amilcar Catari Sinsaya*/
+Sobre los papers y repositorios:
+
+[17:07, 1/26/2023] Amilcar: Análisis de sentimientos en Twitter 2018
+[17:08, 1/26/2023] Amilcar: https://drive.google.com/file/d/1To65uPlTtLYEyy1Lw5zyp748ZDSYKD3L/view
+[17:12, 1/26/2023] Amilcar: Proyecto en GitHub (lenguaje Python):
+[17:12, 1/26/2023] Amilcar: https://github.com/jcsobrino/TFM-Analisis_sentimientos_Twitter-UOC
+[17:13, 1/26/2023] Amilcar: Proyecto 2:
+[17:14, 1/26/2023] Amilcar: Análisis de sentimientos mediante twets 2021
+[17:14, 1/26/2023] Amilcar: Documentación del Árticulo:
+[17:14, 1/26/2023] Amilcar: https://github.com/ElenaVillano/sentiment_analysis_tweets/blob/main/documentacion/Art%C3%ADculo_final.pdf
+[17:14, 1/26/2023] Amilcar: Repositorio en github:
+[17:15, 1/26/2023] Amilcar: https://github.com/ElenaVillano/sentiment_analysis_tweets
+[17:16, 1/26/2023] Amilcar: Proyecto 3:
+[17:16, 1/26/2023] Amilcar: DETECCIÓN DEL RIESGO DE SUICIDIO A TRAVÉS DE LAS REDES SOCIALES 2022
+[17:17, 1/26/2023] Amilcar: Documentación del artículo:
+[17:18, 1/26/2023] Amilcar: Proyecto 4:
+[17:19, 1/26/2023] Amilcar: Twitter-Sentiment-Analysis
+[17:19, 1/26/2023] Amilcar: Repositorio de github:
+[17:19, 1/26/2023] Amilcar: https://github.com/Giohanny/Twitter-Sentiment-Analysis
+[17:20, 1/26/2023] Amilcar: obs: Tiene una gran base de datos, podemos utilizarlo
+
+Sobre las metodologias:
+Aux: Curso de lenguaje de preocesamiento Natural 49 clases en youtube
+https://www.youtube.com/watch?v=-OQ7TMAdxuQ&list=PLppKo85eGXiXIh54H_qz48yHPHeNVJqBi&index=45
+
+
